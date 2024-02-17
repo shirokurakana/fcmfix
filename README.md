@@ -1,6 +1,6 @@
 # fcmfix(Android 10以上13以下 )(Android 14?)
 
-使用xposed让被完全停止的应用响应fcm，让fcm送达率达到100%，不错过任何通知  
+使用xposed让被完全停止的应用响应fcm，让fcm送达率达到100%，不错过任何通知！
 
 [![Android CI](https://github.com/kooritea/fcmfix/workflows/Android%20CI/badge.svg)](https://github.com/kooritea/fcmfix/actions)
 
